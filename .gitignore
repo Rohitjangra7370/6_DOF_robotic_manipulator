@@ -1,0 +1,16 @@
+#ROS2 build file
+build/
+install/
+log/
+
+
+# Colcon & CMake
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.DS_Store
+colcon_install_layout.*
